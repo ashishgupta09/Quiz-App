@@ -1,0 +1,14 @@
+.navbar{
+    height:50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+.navbar a img {
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+}
+

@@ -1,0 +1,40 @@
+.container bg-bold py-5{
+    background-position: 10%;
+}
+
+*{
+    /* background-color: rgb(230, 236, 229); */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.welcome-container{
+    margin-top: 24px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+    background-color: white;
+}
+
+@media screen and (max-width:348px){
+    .title{
+        font-size:20px;
+    }
+    .sub-title{
+        font-size: 16px !important;
+        
+    }
+    h4{
+        font-size: 16px;
+        font-weight: 500;
+    }
+    ol li {
+        font-size: 14px;
+    }
+    .Stitle{
+    font-size: 20px;
+    }
+    .btn-Start{
+        width: 48%;
+        font-size: 16px;
+        
+    }
+}
